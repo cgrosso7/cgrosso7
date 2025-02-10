@@ -28,24 +28,28 @@
   <h2>My Skills / Mis habilidades</h2>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="90px" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="90px" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="90px" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="90px" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="90px" style="margin: 5px;">
-  
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60px" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="60px" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60px" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60px" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60px" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60px" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="60px" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60px" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60px" style="margin: 5px;">
-  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="60px" style="margin: 5px;">
-</div>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="90px">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="90px">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="90px">
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="90px">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="90px">
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 15px;">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60px">
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="60px">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60px">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60px">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60px">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60px">
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="60px">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60px">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60px">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="60px">
+ 
+
 
 
 <div style="margin: 50px 0;"></div>
