@@ -48,7 +48,8 @@
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60px">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60px">
     <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="60px">
- 
+  </div>
+</div>
 
 <div align="center" style="margin: 40px 0;">
   <h2> About ME / Sobre Mi</h2>
@@ -69,7 +70,8 @@
       I excel in dynamic environments and always seek opportunities to learn and improve my technical skills.
     </p>
   </div>
-  <div style="width: 45%;">
+
+    <div style="width: 45%;">
     <h3>ES</h3>
     <ul>
       <li>👋 Hola, soy @cgrosso7, de Buenos Aires, Argentina.</li>
