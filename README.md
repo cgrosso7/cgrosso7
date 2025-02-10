@@ -8,17 +8,25 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Resalto -->
-    <picture>
-      <img src="https://skillicons.dev/icons?i=js,py,bash,azure,vscode" width="60px" style="margin: 10px;">
-    </picture>
-    <br> <!-- Salto de línea -->
-    <!-- Conocimiento -->
-    <picture>
-      <img src="https://skillicons.dev/icons?i=linux,ubuntu,github,git,html,css,githubactions,postgres,docker,nginx" width="40px" style="margin: 5px;">
-    </picture>
+    <img src="https://skillicons.dev/icons?i=js" width="80px" style="margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=py" width="80px" style="margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=bash" width="80px" style="margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=azure" width="80px" style="margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=vscode" width="80px" style="margin: 10px;">
+    <br> 
+    <img src="https://skillicons.dev/icons?i=linux" width="50px" style="margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=ubuntu" width="50px" style="margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=github" width="50px" style="margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=git" width="50px" style="margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=html" width="50px" style="margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=css" width="50px" style="margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=githubactions" width="50px" style="margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=postgres" width="50px" style="margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=docker" width="50px" style="margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=nginx" width="50px" style="margin: 5px;">
   </a>
 </div>
+
 
 
 
