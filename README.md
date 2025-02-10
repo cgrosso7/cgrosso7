@@ -1,32 +1,30 @@
 <div align="center">
-  <p>
-    <b>Visitor Count (2025 Onwards):</b> <br>
-  </p>
-  <br>
   <img src="https://komarev.com/ghpvc/?username=cgrosso7&style=flat-square" alt="Profile view counter on GitHub">
 </div>
+
 <div align="right">
-  <!-- GitHub Icon -->
+  <!-- GitHub -->
   <a href="https://github.com/cgrosso7" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="80px" style="margin: 10px;">
   </a>
-  <!-- LinkedIn Icon -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/cgrosso7/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80px" style="margin: 10px;">
   </a>
-  <!-- Instagram Icon -->
+  <!-- Instagram -->
   <a href="https://www.instagram.com/bairestcodinghub/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="80px" style="margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="80px" style="margin: 10px;">
   </a>
-  <!-- Microsoft Learn Icon -->
+  <!-- Microsoft Learn -->
   <a href="https://learn.microsoft.com/es-es/users/cgrosso7/achievements" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="80px" style="margin: 10px;">
   </a>
-  <!-- BATCH Logo -->
+  <!-- BATCH -->
   <a href="http://www.batch.com.ar/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/cgrosso7/cgrosso7/main/logo.webp" width="80px" style="margin: 10px; border-radius: 8px;">
+    <img src="https://raw.githubusercontent.com/cgrosso7/cgrosso7/main/logo.webp" width="80px" style="margin: 10px;">
   </a>
 </div>
+
 
 <div align="center">
   <a href="https://skillicons.dev">
