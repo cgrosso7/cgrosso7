@@ -1,52 +1,42 @@
 <div align="center">
+
   <img src="https://komarev.com/ghpvc/?username=cgrosso7&style=flat-square" alt="Profile view counter on GitHub">
 </div>
 
-<div align="right">
-  <!-- GitHub -->
+<div align="right" style="margin-bottom: 30px;">
+
   <a href="https://github.com/cgrosso7" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="80px" style="margin: 10px;">
   </a>
-  <!-- LinkedIn -->
+
   <a href="https://www.linkedin.com/in/cgrosso7/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80px" style="margin: 10px;">
   </a>
-  <!-- Instagram -->
+
   <a href="https://www.instagram.com/bairestcodinghub/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="80px" style="margin: 10px;">
   </a>
-  <!-- Microsoft Learn -->
+ 
   <a href="https://learn.microsoft.com/es-es/users/cgrosso7/achievements" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="80px" style="margin: 10px;">
   </a>
-  <!-- BATCH -->
+
   <a href="http://www.batch.com.ar/index.html" target="_blank">
     <img src="https://raw.githubusercontent.com/cgrosso7/cgrosso7/main/logo.webp" width="80px" style="margin: 10px;">
   </a>
 </div>
 
+<!-- Espacio entre iconos sociales y habilidades -->
+<div style="margin-bottom: 40px;"></div>
 
 <div align="center">
+  <!-- Skills Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" width="80px" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=py" width="80px" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=bash" width="80px" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=azure" width="80px" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=vscode" width="80px" style="margin: 10px;">
-    <br> 
-    <img src="https://skillicons.dev/icons?i=linux" width="50px" style="margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=ubuntu" width="50px" style="margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=github" width="50px" style="margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=git" width="50px" style="margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=html" width="50px" style="margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=css" width="50px" style="margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=githubactions" width="50px" style="margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=postgres" width="50px" style="margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=docker" width="50px" style="margin: 5px;">
-    <img src="https://skillicons.dev/icons?i=nginx" width="50px" style="margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=bash,linux,js,ubuntu,github,git,py,html,css,githubactions,postgres,docker,azure&perline=7" alt="My Skills" style="margin: 10px;">
   </a>
 </div>
 
+<div style="margin-bottom: 50px;"></div>
 
 
 
