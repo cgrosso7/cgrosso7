@@ -6,6 +6,21 @@
   <img src="https://komarev.com/ghpvc/?username=cgrosso7&style=flat-square" alt="Profile view counter on GitHub">
 </div>
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <!-- Resalto -->
+    <picture>
+      <img src="https://skillicons.dev/icons?i=js,py,bash,azure,vscode" width="60px" style="margin: 10px;">
+    </picture>
+    <br> <!-- Salto de línea -->
+    <!-- Conocimiento -->
+    <picture>
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,github,git,html,css,githubactions,postgres,docker,nginx" width="40px" style="margin: 5px;">
+    </picture>
+  </a>
+</div>
+
+
 
 - 👋 Hi, I’m @cgrosso7, from Buenos Aires, Argentina.
 
