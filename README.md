@@ -12,7 +12,7 @@
   </a>
 
   <a href="http://www.batch.com.ar/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/cgrosso7/cgrosso7/main/logo.webp" width="80px" style="margin: 10px; border-radius: 10px;">
+    <img src="https://raw.githubusercontent.com/cgrosso7/cgrosso7/main/logo.webp" width="80px" style="margin: 10px; border-radius: 50%;">
   </a>
   
   <a href="https://www.instagram.com/bairestcodinghub/" target="_blank">
@@ -36,8 +36,9 @@
 
 <div style="margin: 50px 0;"></div>
 
-
-<div style="display: flex; justify-content: space-around; text-align: left;">
+<!-- Texto dividido en dos columnas -->
+<div style="display: flex; justify-content: space-around; text-align: left; gap: 20px;">
+  <!-- Columna EN -->
   <div style="width: 45%;">
     <h3>EN</h3>
     <ul>
@@ -53,6 +54,7 @@
     </p>
   </div>
 
+  <!-- Columna ES -->
   <div style="width: 45%;">
     <h3>ES</h3>
     <ul>
@@ -68,5 +70,4 @@
     </p>
   </div>
 </div>
-
 
