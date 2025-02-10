@@ -52,38 +52,42 @@
 </div>
 
 <div align="center" style="margin: 40px 0;">
-  <h2> About ME / Sobre Mi</h2>
+  <h2>About ME / Sobre Mi</h2>
 </div>
 
-<div style="display: flex; justify-content: space-around; text-align: left; gap: 20px;">
-  <div style="width: 45%;">
-    <h3>EN</h3>
-    <ul>
-      <li>👋 Hi, I’m @cgrosso7, from Buenos Aires, Argentina.</li>
-      <li>👀 I’m interested in: Personal development, software, understanding how things work.</li>
-      <li>🌱 I’m currently learning: Programming, Systems Engineering.</li>
-      <li>💞️ I’m looking to collaborate on: Web development, open source projects, and other challenges.</li>
-    </ul>
-    <p>
-      I am a Fullstack Developer with solid knowledge in JavaScript and Python, and extensive experience in problem-solving and teamwork.  
-      I am committed to contributing my experience and adaptability to challenging projects or teams.  
-      I excel in dynamic environments and always seek opportunities to learn and improve my technical skills.
-    </p>
-  </div>
-
-    <div style="width: 45%;">
-    <h3>ES</h3>
-    <ul>
-      <li>👋 Hola, soy @cgrosso7, de Buenos Aires, Argentina.</li>
-      <li>👀 Me interesan: El desarrollo personal, el software, entender cómo funcionan las cosas.</li>
-      <li>🌱 Actualmente estoy aprendiendo: Programación e Ingeniería en Sistemas.</li>
-      <li>💞️ Busco colaborar en: Desarrollo web, proyectos de código abierto y otros desafíos.</li>
-    </ul>
-    <p>
-      Soy un Desarrollador Fullstack con sólidos conocimientos en JavaScript y Python, y amplia experiencia en resolución de problemas y trabajo en equipo.  
-      Estoy comprometido a contribuir con mi experiencia y adaptabilidad en proyectos o equipos desafiantes.  
-      Destaco en entornos dinámicos y siempre busco oportunidades para aprender y mejorar mis habilidades técnicas.
-    </p>
-  </div>
+<div align="center">
+  <table style="width: 80%; text-align: left; margin: 0 auto; border-spacing: 20px;">
+    <tr>
+      <td style="vertical-align: top; width: 50%;">
+        <h3>EN</h3>
+        <ul>
+          <li>👋 Hi, I’m @cgrosso7, from Buenos Aires, Argentina.</li>
+          <li>👀 I’m interested in: Personal development, software, understanding how things work.</li>
+          <li>🌱 I’m currently learning: Programming, Systems Engineering.</li>
+          <li>I’m looking to collaborate on: Web development, open source projects, and other challenges.</li>
+        </ul>
+        <p>
+          I am a Fullstack Developer with solid knowledge in JavaScript and Python, and extensive experience in problem-solving and teamwork.  
+          I am committed to contributing my experience and adaptability to challenging projects or teams.  
+          I excel in dynamic environments and always seek opportunities to learn and improve my technical skills.
+        </p>
+      </td>
+      <td style="vertical-align: top; width: 50%;">
+        <h3>ES</h3>
+        <ul>
+          <li>👋 Hola, soy @cgrosso7, de Buenos Aires, Argentina.</li>
+          <li>👀 Me interesan: El desarrollo personal, el software, entender cómo funcionan las cosas.</li>
+          <li>🌱 Actualmente estoy aprendiendo: Programación e Ingeniería en Sistemas.</li>
+          <li>Busco colaborar en: Desarrollo web, proyectos de código abierto y otros desafíos.</li>
+        </ul>
+        <p>
+          Soy un Desarrollador Fullstack con sólidos conocimientos en JavaScript y Python, y amplia experiencia en resolución de problemas y trabajo en equipo.  
+          Estoy comprometido a contribuir con mi experiencia y adaptabilidad en proyectos o equipos desafiantes.  
+          Destaco en entornos dinámicos y siempre busco oportunidades para aprender y mejorar mis habilidades técnicas.
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
