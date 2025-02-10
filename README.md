@@ -28,17 +28,29 @@
   <h2>My Skills / Mis habilidades</h2>
 </div>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,js,ubuntu,github,git,py,html,css,githubactions,postgres,docker,azure&perline=7" alt="My Skills" style="margin: 10px;">
-  </a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="90px" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="90px" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="90px" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="90px" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="90px" style="margin: 5px;">
+  
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60px" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="60px" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60px" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60px" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60px" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60px" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="60px" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60px" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60px" style="margin: 5px;">
+  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="60px" style="margin: 5px;">
 </div>
+
 
 <div style="margin: 50px 0;"></div>
 
-<!-- Texto dividido en dos columnas -->
 <div style="display: flex; justify-content: space-around; text-align: left; gap: 20px;">
-  <!-- Columna EN -->
   <div style="width: 45%;">
     <h3>EN</h3>
     <ul>
@@ -53,8 +65,6 @@
       I excel in dynamic environments and always seek opportunities to learn and improve my technical skills.
     </p>
   </div>
-
-  <!-- Columna ES -->
   <div style="width: 45%;">
     <h3>ES</h3>
     <ul>
