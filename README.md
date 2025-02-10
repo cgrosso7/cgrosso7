@@ -1,7 +1,6 @@
 <div align="center">
   <p>
-    <b>Visitor Count:</b> <br>
-    <i>(2025 Onwards)</i>
+    <b>Visitor Count (2025 Onwards):</b> <br>
   </p>
   <br>
   <img src="https://komarev.com/ghpvc/?username=cgrosso7&style=flat-square" alt="Profile view counter on GitHub">
