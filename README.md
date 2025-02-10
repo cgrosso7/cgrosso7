@@ -13,6 +13,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80px" style="margin: 10px;">
   </a>
 
+  <a href="http://www.batch.com.ar/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/cgrosso7/cgrosso7/main/logo.webp" width="80px" style="margin: 10px;">
+  </a>
+  
   <a href="https://www.instagram.com/bairestcodinghub/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="80px" style="margin: 10px;">
   </a>
@@ -21,12 +25,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="80px" style="margin: 10px;">
   </a>
 
-  <a href="http://www.batch.com.ar/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/cgrosso7/cgrosso7/main/logo.webp" width="80px" style="margin: 10px;">
-  </a>
+
 </div>
 
-<!-- Espacio entre iconos sociales y habilidades -->
+
 <div style="margin-bottom: 40px;"></div>
 
 <div align="center">
