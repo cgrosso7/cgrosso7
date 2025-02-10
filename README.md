@@ -1,6 +1,6 @@
 <p align="center"> 
   Visitor Count: <br> <b><i>(2025 Onwards)<b><i> <br><br>
-  ![Profile view counter on GitHub] (https://komarev.com/ghpvc/?username=cgrosso7)
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=cgrosso7)
 </p>
 
 
