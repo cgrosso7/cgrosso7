@@ -1,7 +1,12 @@
-<p align="center"> 
-  Visitor Count: <br> <b><i>(2025 Onwards)<b><i> <br><br>
-</p>
- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=cgrosso7)
+<div align="center">
+  <p>
+    <b>Visitor Count:</b> <br>
+    <i>(2025 Onwards)</i>
+  </p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=cgrosso7&style=flat-square" alt="Profile view counter on GitHub">
+</div>
+
 
 - 👋 Hi, I’m @cgrosso7, from Buenos Aires, Argentina.
 
