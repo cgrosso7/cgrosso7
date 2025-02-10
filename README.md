@@ -1,3 +1,6 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=cgrosso7)
+
+
 - 👋 Hi, I’m @cgrosso7, from Buenos Aires, Argentina.
 
 - 👀 I’m interested in: Personal development, software, understanding how things work
@@ -6,7 +9,7 @@
 
 - 💞️ I’m looking to collaborate on: Web development, open source projects, and other challenges
 
-- 📫 How to reach me: Email: bairescodinghub@gmail.com, Instagram: [@bairescodinghub](https://www.instagram.com/bairescodinghub/). Future owner of bairescodinghub.com and .com.ar.
+- 📫 How to reach me: Email: bairescodinghub@gmail.com, Instagram: [@bairestcodinghub](https://www.instagram.com/bairestcodinghub/). Owner of BATCH (Buenos Aires Technical Coding Hub).
 
 - 😄 Pronouns: Charlie
 
@@ -22,7 +25,7 @@
 
 - 💞️ Busco colaborar en: Desarrollo web, proyectos de código abierto y otros desafíos.
 
-- 📫 Cómo contactarme: Email: bairescodinghub@gmail.com, Instagram: [@bairescodinghub](https://www.instagram.com/bairescodinghub/). Futuro propietario de bairescodinghub.com y .com.ar.
+- 📫 Cómo contactarme: Email: bairescodinghub@gmail.com, Instagram: [@bairestcodinghub](https://www.instagram.com/bairestcodinghub/). Creador de BATCH (Buenos Aires Technical Coding Hub)
 
 - 😄 Pronombres: Charlie
 
