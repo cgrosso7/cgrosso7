@@ -50,9 +50,9 @@
     <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="60px">
  
 
-
-
-<div style="margin: 50px 0;"></div>
+<div align="center" style="margin: 40px 0;">
+  <h2> About ME / Sobre Mi</h2>
+</div>
 
 <div style="display: flex; justify-content: space-around; text-align: left; gap: 20px;">
   <div style="width: 45%;">
