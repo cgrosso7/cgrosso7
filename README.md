@@ -12,7 +12,7 @@
   </a>
 
   <a href="http://www.batch.com.ar/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/cgrosso7/cgrosso7/main/logo.webp" width="80px" style="margin: 10px; border-radius: 50%;">
+    <img src="https://raw.githubusercontent.com/cgrosso7/cgrosso7/main/logo.webp" width="80px" style="margin: 10px; border-radius: 10px;">
   </a>
   
   <a href="https://www.instagram.com/bairestcodinghub/" target="_blank">
